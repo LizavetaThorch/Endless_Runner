@@ -11,7 +11,8 @@
 				"S:/Users/torch/Documents/gamedev/Unreal Projects/Endless runner/Endless_Runner_UN/Content/Runner/Blueprints/IMC_RunnerDefault.uasset",
 				"S:/Users/torch/Documents/gamedev/Unreal Projects/Endless runner/Endless_Runner_UN/Content/Runner/Blueprints/BP_RunnerCharacter.uasset",
 				"S:/Users/torch/Documents/gamedev/Unreal Projects/Endless runner/Endless_Runner_UN/Content/Runner/Blueprints/Slide_IA.uasset",
-				"S:/Users/torch/Documents/gamedev/Unreal Projects/Endless runner/Endless_Runner_UN/Content/Runner/Blueprints/Move_IA.uasset"
+				"S:/Users/torch/Documents/gamedev/Unreal Projects/Endless runner/Endless_Runner_UN/Content/Runner/Blueprints/Move_IA.uasset",
+				"S:/Users/torch/Documents/gamedev/Unreal Projects/Endless runner/Endless_Runner_UN/Content/Runner/Blueprints/Jump_IA.uasset"
 			]
 		}
 	]
